@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\database",
+    "\\database\\scripts",
+    "\\docker_practice",
+    "\\frontend",
+    "\\frontend\\public",
+    "\\frontend\\public\\build",
+    "\\frontend\\scripts",
+    "\\frontend\\src"
+  ],
+  "SelectedNode": "\\backend\\Dockerfile",
+  "PreviewInSolutionExplorer": false
+}
